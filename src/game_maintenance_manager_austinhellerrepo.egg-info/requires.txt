@@ -1,0 +1,1 @@
+kafka-manager-austinhellerrepo@ git+https://github.com/AustinHellerRepo/KafkaManager
